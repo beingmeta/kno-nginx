@@ -2,6 +2,7 @@
 
 /* mod_fdserv.c
    Copyright (C) 2002-2012 beingmeta, inc.  All Rights Reserved
+   Copyright (C) 2020-2021 beingmeta, LLC
    This is a Apache module supporting persistent FramerD servers
 
    For Apache 2.0:
